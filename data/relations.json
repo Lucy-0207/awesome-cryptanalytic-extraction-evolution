@@ -1,0 +1,100 @@
+[
+  {
+    "source": "P01",
+    "target": "P03",
+    "relation": "问题推进",
+    "note": "从预测 API 窃取到高保真目标",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P04",
+    "target": "P05",
+    "relation": "方法改进",
+    "note": "优化 ReLU 网络符号恢复的复杂度",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P04",
+    "target": "P06",
+    "relation": "方法改进",
+    "note": "重实现并优化经典攻击流水线",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P05",
+    "target": "P06",
+    "relation": "方法改进",
+    "note": "改善已有符号恢复的实际效率",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P04",
+    "target": "P07",
+    "relation": "技术延伸",
+    "note": "改进深层 ReLU 端到端恢复",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P04",
+    "target": "P08",
+    "relation": "技术延伸",
+    "note": "改进 Jacobian 签名估计原语",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P04",
+    "target": "P12",
+    "relation": "威胁模型扩展",
+    "note": "从原始输出转向仅标签决策边界",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P12",
+    "target": "P13",
+    "relation": "方法改进",
+    "note": "双点签名和条件化多项式时间恢复",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P13",
+    "target": "P15",
+    "relation": "假设审视",
+    "note": "持久/死亡神经元影响复杂度结论",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P13",
+    "target": "P16",
+    "relation": "技术延伸",
+    "note": "法向对齐改进符号判定",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P13",
+    "target": "P18",
+    "relation": "技术延伸",
+    "note": "组合前序恢复原语与新符号恢复",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P24",
+    "target": "P26",
+    "relation": "技术延伸",
+    "note": "放宽硬标签 PReLU 斜率及结构条件",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P30",
+    "target": "P31",
+    "relation": "技术延伸",
+    "note": "从注意力查询学习拓展至多头",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  },
+  {
+    "source": "P50",
+    "target": "P46",
+    "relation": "方法改进",
+    "note": "数据增强改善过参数化学生网络的聚类恢复",
+    "evidence": "研究脉络归纳；具体引用请核对原论文"
+  }
+]
